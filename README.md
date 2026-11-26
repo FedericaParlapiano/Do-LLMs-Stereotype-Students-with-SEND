@@ -1,5 +1,4 @@
-This repository contains the code and the experimental results for the paper *Do LLMs Stereotype Students with Special Educational Needs? A Study of
-Stereotypical Trait Attribution and Pedagogical Bias in Educational Role-Playing*.
+This repository contains the code and the experimental results for the paper "*Do LLMs Stereotype Students with Special Educational Needs? A Study of Stereotypical Trait Attribution and Pedagogical Bias in Educational Role-Playing*".
 
 In the main directory you can find:
 - The three files corresponding to the analyses conducted in the paper,
@@ -12,7 +11,7 @@ If you use this code in your research, please cite our paper:
 @inproceedings{TIGRAG2026,
   title={Do LLMs Stereotype Students with Special Educational Needs? A Study of Stereotypical Trait Attribution and Pedagogical Bias in Educational Role-Playing},
   author={Christopher Buratti, Michele Marchetti, Federica Parlapiano, Davide Traini, Domenico Ursino, Luca Virgili},
-      booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational{L}inguistics (Volume 1: Long Papers)",
+  booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational{L}inguistics (Volume 1: Long Papers)",
   year={2027}
 }
 ```
