@@ -1,7 +1,7 @@
 This repository contains the code and the experimental results for the paper "*Do LLMs Stereotype Students with Special Educational Needs? A Study of Stereotypical Trait Attribution and Pedagogical Bias in Educational Role-Playing*".
 
 In the main directory you can find:
-- The three files corresponding to the analyses conducted in the paper,
+- The three files corresponding to the 3RQs answered in the paper,
 - The file to used to generate the main results of the paper. You can change the prompt, the assignment and the frames by replacing the ones in the file with the ones in the paper,
 - The folder with the results obtained.
 
