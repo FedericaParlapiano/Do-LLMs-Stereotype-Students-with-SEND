@@ -5,6 +5,8 @@ In the main directory you can find:
 - The file to used to generate the main results of the paper. You can change the prompt, the assignment and the frames by replacing the ones in the file with the ones in the paper,
 - The folder with the results obtained.
 
+Specific packages used are listed in the requirements.txt file.
+
 # Citation
 If you use this code in your research, please cite our paper:
 ```bib
