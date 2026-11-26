@@ -11,7 +11,7 @@ If you use this code in your research, please cite our paper:
 @inproceedings{TIGRAG2026,
   title={Do LLMs Stereotype Students with Special Educational Needs? A Study of Stereotypical Trait Attribution and Pedagogical Bias in Educational Role-Playing},
   author={Christopher Buratti, Michele Marchetti, Federica Parlapiano, Davide Traini, Domenico Ursino, Luca Virgili},
-  booktitle = "Proceedings of the 20th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational{L}inguistics (Volume 1: Long Papers)",
+  booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2027",
   year={2027}
 }
 ```
